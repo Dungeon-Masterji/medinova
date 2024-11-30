@@ -1,4 +1,4 @@
-# medinova
+# Nutrevive
 A web-based application designed to recommend personalized nutrition plans based on specific diseases or health conditions.
 
 Features 🚀
